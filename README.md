@@ -75,7 +75,7 @@ The `Pastel QR Code Scanner & Reader` component has the following props:
 
 ## Issues
 
-Please, open an [issue](https://github.com/pastelnetwork/pastel-qr-scan/qr-scan/issues) following one of the issues templates. We will do our best to fix them.
+Please, open an [issue](https://github.com/pastelnetwork/pastel-qr-scan/issues) following one of the issues templates. We will do our best to fix them.
 
 ## License
 

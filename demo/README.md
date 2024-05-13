@@ -1,6 +1,6 @@
 <div align=center>
 
-  [<img height="100px" src="src/assets/images/logo.svg" />](https://github.com/pastelnetwork/pastel-qr-scan)
+  [<img height="100px" src="https://github.com/pastelnetwork/pastel-qr-scan/blob/master/src/assets/images/logo.svg" />](https://github.com/pastelnetwork/pastel-qr-scan)
 
 </div>
 
