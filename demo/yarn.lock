@@ -6974,10 +6974,10 @@ pascal-case@^3.1.2:
     no-case "^3.0.4"
     tslib "^2.0.3"
 
-pastel-qr-scan@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/pastel-qr-scan/-/pastel-qr-scan-1.0.1.tgz#8c19f6b8b32abb481fb4ed44681bb1883ecada41"
-  integrity sha512-WwulC4ybC9Z+bJPpSCmVOXo1+96ulahzB8rkMaggKZhWH189K0Q/bLkMcWiFwCxXGKdyKWb00RqUtr1Gm6bhdw==
+pastel-qr-scan@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/pastel-qr-scan/-/pastel-qr-scan-1.0.2.tgz#2c1ee7e2f76317265f7091a99abeb69d16a84159"
+  integrity sha512-bj8hfXdh26FyUmQlap2VWoaDUBTmM9GYEfz7LSCO+pXSrrIBw6HPnI0mcryAZwMRAc9RaVAmAJIZWZd3gYP4Aw==
 
 path-exists@^3.0.0:
   version "3.0.0"

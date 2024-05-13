@@ -1,6 +1,6 @@
 {
   "name": "pastel-qr-scan",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Pastel QR Code Scanner & Reader is a component built to scan PSL QR codes using a webcam.",
   "author": "Pastel Network",
   "license": "MIT",
