@@ -1,0 +1,38 @@
+{
+  "name": "pastel-qr-scan-demo",
+  "version": "1.0.0",
+  "description": "Pastel Network",
+  "author": "Pastel Network",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "preinstall": "node -e \"if (process.env.npm_execpath.indexOf('yarn') === -1) throw new Error('Use yarn for installing: https://yarnpkg.com/en/docs/install')\"",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build"
+  },
+  "browserslist": [
+    "> 0.25%",
+    "ie >= 11",
+    "not op_mini all",
+    "not dead"
+  ],
+  "dependencies": {
+    "@babel/preset-env": "7.23.2",
+    "@types/react-router-dom": "5.3.3",
+    "pastel-qr-scan": "^1.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "7.21.11",
+    "@types/node": "20.8.6",
+    "@types/react": "18.2.38",
+    "@types/react-dom": "18.2.17",
+    "prettier": "3.0.3",
+    "prop-types": "15.8.1",
+    "react-app-rewire-alias": "1.1.7",
+    "react-app-rewired": "2.2.1",
+    "typescript": "5.2.2"
+  }
+}
